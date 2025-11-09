@@ -4,7 +4,7 @@
 # ROLES
 
 
-## ᗴᐯIᒪ Tᗴᗩᗰ :
+## ᗴᐯIᒪ Tᗴᗩᗰ : The Rustborne Syndicate
 
 “ 𝘛𝘩𝘦 𝘛𝘩𝘳𝘦𝘴𝘩𝘦𝘳 ” [ MAFIA ]
 — They lurk among old farm machinery, luring victims close before the rusted blade finishes the job.
@@ -33,7 +33,7 @@
 . Poisons someone for 2 nights
 . Curable
 
-## ᑎᗴᑌTᖇᗩᒪ Tᗴᗩᗰ :
+## ᑎᗴᑌTᖇᗩᒪ Tᗴᗩᗰ : The Fractured
 
 “ 𝘙𝘶𝘴𝘵-𝘏𝘦𝘢𝘳𝘵𝘩 𝘒𝘦𝘦𝘱𝘦𝘳 ” [ BUTLER / / COOK ]
 — Keeper of dwindling supplies and the stove’s final embers. Their loyalty is to survive alone.
@@ -59,7 +59,7 @@
 . Burns people to death.
 . 3 uses
 
-## ᘜOOᗪ Tᗴᗩᗰ: 
+## ᘜOOᗪ Tᗴᗩᗰ: The Warmblood Alliance
 
 “ 𝘍𝘳𝘰𝘴𝘵-𝘵𝘳𝘢𝘪𝘭 𝘛𝘳𝘢𝘤𝘬𝘦𝘳 ” [ DETECTIVE ]
 — They read clues left in snow and rust, finding truths even when buried.
