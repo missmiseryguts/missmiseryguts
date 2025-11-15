@@ -17,7 +17,6 @@
 . Only has 2 chances to kill someone
 . Protection from any roles will not block their action.
 
-. Makes their targets unable to vote nor speak (allowed to speak in emojis and symbols.) for 1 day.
 
 “ 𝘍𝘳𝘰𝘴𝘵𝘱𝘳𝘪𝘯𝘵 𝘍𝘰𝘳𝘨𝘦𝘳 ” [ FRAMER ]
 — They scatter counterfeit footprints in snow and dust, making the innocent appear guilty during the next investigation.
@@ -58,6 +57,8 @@
 
 “ 𝘚𝘯𝘰𝘸𝘣𝘰𝘶𝘯𝘥 𝘞𝘩𝘪𝘴𝘱𝘦𝘳𝘦𝘳 ” [ CONSIGLIERE ]
 — Words freeze in their presence. Takes voices like a winter draft steals warmth.. subtly and completely.
+
+. Makes their targets unable to vote nor speak (allowed to speak in emojis and symbols.) for 1 day.
 
 ## ᘜOOᗪ Tᗴᗩᗰ: The Warmblood Alliance
 
